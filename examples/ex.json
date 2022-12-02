@@ -73,7 +73,7 @@
   },
   {
     "id": "T7",
-    "parentIds": ["D4"]
+    "parentIds": ["D4","D8"]
   },
   {
     "id": "T8",
@@ -89,7 +89,7 @@
   },
   {
     "id": "E3",
-    "parentIds": ["T5"]
+    "parentIds": ["T5","D9"]
   },
   {
     "id": "E4",
