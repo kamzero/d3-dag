@@ -49,7 +49,7 @@
   },
   {
     "id": "T1",
-    "parentIds": ["C1","C2","C3"]
+    "parentIds": []
   },
   {
     "id": "T2",
