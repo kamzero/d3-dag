@@ -1,26 +1,22 @@
 [
   {
-    "id": "0",
+    "id": "ShapeNet Chairs",
     "parentIds": []
   },
   {
-    "id": "1",
-    "parentIds": ["0"]
-  },
-  {
     "id": "2",
-    "parentIds": ["0"]
+    "parentIds": ["ShapeNet Chairs"]
   },
   {
     "id": "3",
-    "parentIds": ["1", "2"]
+    "parentIds": ["ShapeNet Chairs"]
   },
   {
     "id": "4",
-    "parentIds": ["0"]
+    "parentIds": []
   },
   {
     "id": "5",
-    "parentIds": ["4"]
-  }
+    "parentIds": ["ShapeNet Chairs", "3"]
+  },
 ]
