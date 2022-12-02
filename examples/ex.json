@@ -9,7 +9,7 @@
   },
   {
     "id": "D3",
-    "parentIds": []
+    "parentIds": ["D2"]
   },
   {
     "id": "D4",
@@ -17,7 +17,7 @@
   },
   {
     "id": "D5",
-    "parentIds": []
+    "parentIds": ["D1"]
   },
   {
     "id": "D6",
@@ -29,7 +29,7 @@
   },
   {
     "id": "D8",
-    "parentIds": []
+    "parentIds": ["D4"]
   },
   {
     "id": "D9",
